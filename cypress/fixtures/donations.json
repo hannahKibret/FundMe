@@ -1,0 +1,28 @@
+[
+    {
+        "isAnonymous":false,
+        "isDeleted":false,
+        "_id":"62892e7337167105548ed3dd",
+        "amount":2000,
+        "paymentMethod":"paypal",
+        "userId":{"_id":"626d54485d1a315250377e39","firstName":"Naomi","lastName":"Tibebe"},
+        "date":"2022-05-21T18:24:51.533Z"
+    },
+    {
+        "isAnonymous":true,
+        "isDeleted":false,
+        "_id":"62892e7137167105548ed3b5",
+        "amount":100,
+        "paymentMethod":"paypal",
+        "userId":{"_id":"626d54485d1a315250377e39","firstName":"Hanan","lastName":"Mohsin"},
+        "date":"2022-05-21T18:24:49.088Z"
+    },
+    {
+        "isAnonymous":false,
+        "isDeleted":false,
+        "_id":"62892e6e37167105548ed38d",
+        "amount":100,"paymentMethod":"paypal",
+        "userId":{"_id":"626d54485d1a315250377e39","firstName":"Beamlak","lastName":"Bisrat"},
+        "date":"2022-05-21T18:24:46.304Z"
+    }
+]

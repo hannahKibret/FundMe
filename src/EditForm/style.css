@@ -1,0 +1,145 @@
+/* 
+.edit-form-container {
+    margin: 100px auto;
+    width: 800px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .form-content-right {
+    border-radius: 0 10px 10px 0;
+    position: relative;
+    background: linear-gradient(90deg, rgb(255,255,255) 0%, rgb(157, 157, 157) 100%);
+  }
+  .form {
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y:auto
+  }
+  
+  .form h1 {
+    font-size: 1rem;
+    text-align: start;
+    width: 80%;
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
+    color: black;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.5rem;
+    width: 80%;
+  }
+  
+  .form-inputs p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #f00e0e;
+  }
+  
+  .form-label {
+    display: inline-block;
+    font-size: 1rem;
+    margin-bottom: 6px;
+    color: black;
+  }
+  
+  .form-input {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+  }
+  
+  .form-input::placeholder {
+    color: #595959;
+    font-size: 14px;
+  }
+
+  hr{
+      color: rgb(0, 232, 236);
+  } */
+  
+  .form-input-btnn{
+    width: 150px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 6px 0 6px 0;
+    background: linear-gradient(
+      90deg,
+      rgb(39, 176, 255) 0%,
+      rgb(0, 232, 236) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 0.8rem;
+  }
+
+  .form-input-btn2 {
+    width: 100%;
+    height: 80%;
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 6px 0 6px 0;
+    background-color: #f00e0e;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 0.8rem;
+  }
+  
+  .form-input-btn2 :hover{
+    cursor: pointer;
+    background: rgb(128, 0, 32);
+  }
+
+  .form-input-btnn :hover{
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(39, 143, 255) 0%,
+      rgb(12, 99, 250) 100%
+    );
+    transition: all 0.4s ease-out;
+  }
+
+/* .form-container {
+    margin: 100px auto;
+    width: 1000px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  } */
+  .form-img-2 {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-success {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 80px;
+    color: #fff;
+  }
+

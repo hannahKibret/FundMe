@@ -1,0 +1,34 @@
+[
+    {"totalRaised":{"dollar":0,"birr":0},
+    "donations":[],
+    "_id":"62824bde3dbd214cbc528a9c",
+    "title":"Need money to go to college",
+    "story":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ornare consequat velit, non aliquet quam dapibus sed. Cras nec mi nec nisl efficitur condimentum. In eu condimentum mauris. Aliquam turpis ligula, fermentum nec sodales a, tempor vitae lorem. Phasellus et neque condimentum diam sollicitudin varius vel vel lacus. Sed nibh elit, suscipit et interdum ut, molestie et odio. Proin augue dui, rutrum eget elementum eget, placerat non arcu. Maecenas vel massa in odio accumsan ornare. Aliquam finibus dolor vel dapibus eleifend. In fringilla eleifend tortor, eget tincidunt urna lobortis id. Donec quis posuere massa, eu interdum orci. Praesent tempor felis velit, at hendrerit purus aliquam et. Sed quam quam, efficitur in efficitur eu, scelerisque at purus. Cras a odio odio. Nam quis sem semper, ultricies mi et, finibus elit. Morbi vel eros magna. Morbi tellus ex, laoreet quis tempus vitae, consectetur non nulla. Praesent porta ex porttitor ligula tempor, lobortis viverra enim ullamcorper. In hac habitasse platea dictumst. Morbi vestibulum ex libero, in ullamcorper nibh luctus non. Aenean porta felis et metus lacinia, id viverra risus cursus. Suspendisse eget ex vel nisl porta malesuada. Sed a convallis neque, in consectetur orci. Pellentesque consequat, nulla eget aliquet imperdiet, urna ligula euismod leo, sed ornare urna elit non lorem. Mauris ac nisi elementum, bibendum elit non, vehicula dolor. Aliquam non fringilla nisl, rutrum finibus felis. Cras gravida ornare erat, eu aliquet ligula. Etiam et eros lacus. Suspendisse a felis facilisis, tincidunt sem vel, eleifend justo. Morbi non turpis non nulla viverra eleifend quis vel enim. Proin eget cursus turpis. Nullam vestibulum tincidunt diam at faucibus. Curabitur interdum vitae mauris ut venenatis. Nullam egestas pretium est, eu bibendum tellus. Integer tortor ipsum, ullamcorper non libero eu, pellentesque ornare massa. Aliquam erat volutpat. Phasellus purus lorem, venenatis a nisi id, elementum maximus sem. Suspendisse tellus risus, vehicula ut ultricies sed, porta sit amet urna. Ut mauris turpis, pretium nec sollicitudin blandit, blandit a dolor. Fusce commodo congue mauris, quis feugiat magna faucibus sed.",
+    "goalAmount":20000,
+    "image":"http://localhost:5000/uploads/2022-05-18T12-19-44.601Zimg1.png"},
+
+    {"totalRaised":{"dollar":0,"birr":0},
+    "donations":[],
+    "_id":"62824b923dbd214cbc528a63",
+    "title":"Need money for educationn",
+    "story":"lorum epsum lorum epsum lorum epsum lorum epsum lorem epsum lorem epsum lorum epsum lorem epsum lorem epsum lorem epsum lorem epsum lorem epsum",
+    "goalAmount":20000,
+    "image":"http://localhost:5000/uploads/2022-05-16T13-03-14.100Zimg1.png"},
+
+    {"totalRaised":{"dollar":0,"birr":0},
+    "donations":[],"_id":"62823bd33dbd214cbc5289ba",
+        "title":"jksdlskdlksdl",
+        "story":"jddkj djskdj kdskdlsdks kdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsldksldk dkllllllllllllllllllllllllllllllllll",
+        "goalAmount":20000,
+        "image":"http://localhost:5000/uploads/2022-05-16T11-56-02.716Z1.jpg"},
+        
+    {"totalRaised":{"dollar":500,"birr":400},
+    "donations":[
+        {"_id":"626effb3637d67536c44a146","date":"2022-05-01T21:46:27.741Z"},
+        {"_id":"626eff99637d67536c44a139","date":"2022-05-01T21:46:01.153Z"}
+    ],
+    "_id":"626ee007637d67536c449fa1","title":"bita needs money",
+    "image":"http://bitaimage.com",
+    "goalAmount":700000,
+    "story":"hfkjj fkjfkjf jkfjfk jfkjfk jfkjf jkfjfk"}
+]

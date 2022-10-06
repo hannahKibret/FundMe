@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+.container {
+  position: relative;
+  margin: 100px auto;
+  overflow: hidden;
+  width: 800px;
+  height: 350px;
+  background: #FFFFFF;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+p {
+  font-size: 0.6em;
+  color: #BA7E7E;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 1.7em;
+  color: #4E4E4E;
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
+
+
+/* img {
+  width: 290px;
+  margin-top: 47px;
+  height: 80%;
+} */
+
+
+.product {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: 10%;
+  left: 60%;
+}
+
+.desc {
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 17px;
+  color: #4E4E4E;
+  font-size: 1em;
+  line-height: 1em;
+  margin-right: 25px;
+  text-align: justify;
+  word-wrap: break-word;
+}
+
+button {
+  background: rgb(0,181,226);
+  padding: 10px;
+  display: inline-block;
+  outline: 0;
+  border: 0;
+  margin: -1px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #F5F5F5;
+  cursor: pointer;
+}  
+button :hover {
+    background: linear-gradient(
+        90deg,
+        rgb(39, 143, 255) 0%,
+        rgb(12, 99, 250) 100%
+      );
+    transition: all .4s ease-in-out;
+}
+
+
+.block {
+  width: 67%;
+  background: red
+}
+
+.block:hover {
+  background: darkred;
+}
+
+.like {
+  width: 22%;
+}
+
+.focus{
+  background: #BA7E7E;
+  color: #F5F5F5;
+}
+

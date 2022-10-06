@@ -1,0 +1,134 @@
+
+/* .container {
+    margin: 100px auto;
+    width: 800px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .form {
+    padding: 30px;
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.5rem;
+    width: 80%;
+  }
+  
+  .form-label {
+    display: inline-block;
+    font-size: 1rem;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    color: black;
+    font-weight: bold;
+  }
+
+  .form-input {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+  }
+  
+  .form-input::placeholder {
+    color: #595959;
+    font-size: 1rem;
+  }
+
+  hr{
+      color: rgb(0, 232, 236);
+  }
+  
+  .form-input-btn {
+    background: rgb(0,181,226);
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+    outline: 0;
+    border: 0;
+    border-radius: 1px;
+    text-transform: uppercase;
+    color: #F5F5F5;
+    cursor: pointer;
+    width: 30%;
+  }
+  
+  .form-input-btn:hover {
+      background: darkblue;
+  } */
+
+  .container-2 {
+    margin: 100px auto;
+    width: 800px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .columnn {
+    padding: 30px;
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .roww {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+
+  .deletee {
+    background: transparent;
+    /* padding: 10px;
+    margin-top: 10px;
+    margin-left: 85px;
+    margin-bottom: 10px; */
+    /* outline: 0;
+    border: 0; */
+    /* border-radius: 1px;
+    text-transform: uppercase;
+    color: #F5F5F5;
+    cursor: pointer;
+    width: 20%; */
+  }
+
+  .img4 {
+    width: 50px;
+    height: 50px;
+    color: red
+    /* margin-right: 25px; */
+}
+
+.img4:hover{
+  background: transparent;
+}
+
+  .deletee:hover {
+      background: transparent;
+  }

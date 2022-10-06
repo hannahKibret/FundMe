@@ -1,0 +1,19 @@
+
+{
+    "totalRaised":{"dollar":0,"birr":500},
+    "donations":[{"isAnonymous":true,"isDeleted":false,"_id":"626effb3637d67536c44a146","amount":100,"paymentMethod":"telebirr","userId":{"_id":"626d54485d1a315250377e39","firstName":"Hanan","lastName":"Mohsin","email":"hananmohsin967088@gmail.com"},"date":"2022-05-01T21:46:27.741Z"},{"isAnonymous":false,"isDeleted":false,"_id":"626eff99637d67536c44a139","amount":8,"paymentMethod":"paypal","userId":{"_id":"626d54485d1a315250377e39","firstName":"Hanan","lastName":"Mohsin","email":"hananmohsin967088@gmail.com"},"date":"2022-05-01T21:46:01.153Z"}],
+    "_id":"62824bde3dbd214cbc528a9c",
+    "title":"Need money to go to college",
+    "story":"lorum epsum lorum epsum lorum epsum lorum epsum lorem epsum lorem epsum lorum epsum lorem epsum lorem epsum lorem epsum lorem epsum lorem epsum",
+    "goalAmount":1000,
+    "image":"http://localhost:5000/uploads/2022-05-18T12-19-44.601Zimg1.png",
+    "category":{"_id":"6281044dbae08d0d1cee4d8a","name":"School"},
+    "recipient":{"_id":"626d54485d1a315250377e39","firstName":"Hanan","lastName":"Mohsin","email":"hananmohsin967088@gmail.com"},
+    "dateCreated":"2022-05-16T13:04:30.613Z"
+}
+
+
+
+
+
+

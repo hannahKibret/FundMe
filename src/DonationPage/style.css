@@ -1,0 +1,112 @@
+.container44 {
+    margin: 100px auto;
+    width: 800px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+    height: 650px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .donating-for {
+      display: flex;
+      flex-direction: row;
+      margin: 20px 20px 50px 20px;
+  }
+
+ .don-img {
+      width: 150px;
+      height: 90px;
+      margin-right: 10px; 
+  }
+
+  p {
+      margin-bottom: 30px;
+  }
+
+  .titleName {
+      font-weight: bold;
+  }
+  
+  .form2 {
+    padding: 30px;
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y:auto;
+    margin-top: 20px;
+  }
+  
+  .form-inputs2 {
+    margin-bottom: 0.5rem;
+    width: 80%;
+  }
+  
+  .form-label2 {
+    display: inline-block;
+    font-size: 1rem;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    color: black;
+    font-weight: bold;
+  }
+
+  .form-label-check {
+    display: inline-block;
+    font-size: 1rem;
+    margin-bottom: 6px;
+    color: black;
+    margin-left: 5px;
+  }
+  
+  .form-input2 {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+  }
+  
+  .form-input2::placeholder {
+    color: #595959;
+    font-size: 1rem;
+  }
+
+  hr{
+      color: rgb(0, 232, 236);
+  }
+  
+ .donate-btn {
+    background: rgb(0,181,226);
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+    outline: 0;
+    border: 0;
+    border-radius: 1px;
+    text-transform: uppercase;
+    color: #F5F5F5;
+    cursor: pointer;
+    width: 30%;
+  }
+
+  .terms {
+      font-size: 0.8rem;
+  }
+
+  .hr-pay {
+      margin-top: 15px;
+  }
+
+  .errors {
+      color: red;
+  }
